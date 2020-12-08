@@ -99,11 +99,11 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #FF8C00;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg,#000000 55%, #FF8900 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg,#000000 55%, #FF8900 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #000000 55%, #FF8900 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg,#000000 55%, #FF8900 85%);
+		background-color: #615095;
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg,#000000 55%, #FF8900 75%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg,#000000 55%, #FF8900 75%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #000000 55%, #FF8900 75%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg,#000000 55%, #FF8900 75%);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -120,7 +120,7 @@ input, select, textarea {
 /* Type */
 
 	body {
-		background-color: #FF8900;
+		background-color:#615095;
 		color: rgba(255, 255, 255, 0.65);
 	}
 
